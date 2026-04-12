@@ -120,3 +120,14 @@ suppressWarnings({
 })
 
 table_final
+
+install.packages("webshot2")
+# --- EXPORT TO WORD (.docx) ---
+table_final %>%
+  as_gt() %>%
+  gt::gtsave("Table_Endo_vs_GMT.docx")
+
+# --- EXPORT TO IMAGE (.png) ---
+table_final %>%
+  as_gt() %>%
+  gt::gtsave("Table_Endo_vs_GMT.png")
