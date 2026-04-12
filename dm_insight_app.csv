@@ -1,0 +1,41 @@
+1_Q3.2#1_1,1_Q3.2#3_1_1,Q5.1_1,Q5.1_2,Q5.1_1_TEXT,Q5.1_2_TEXT,Q5.2,Q5.3,Q5.4_1,Q5.4_2,Q5.4_3,Q5.4_4,Q5.4_4_TEXT,Q2.1
+Hospital Type and Number of beds - Hospital Type - 1 - Site / facility,Hospital Type and Number of beds - Hospital name - Site / facility - 1 - Site / facility -,"What is the average schedule for NP/PA(s) at your institution? - Selected Choice - Days per week # ",What is the average schedule for NP/PA(s) at your institution? - Selected Choice - Weekends per year #,What is the average schedule for NP/PA(s) at your institution? - Days per week #  - Text,What is the average schedule for NP/PA(s) at your institution? - Weekends per year # - Text,Average census per APP,Cap per APP (leave blank if no cap),What best describes APP role? Select all that apply - Selected Choice - Completely Independent - No physician involvement,What best describes APP role? Select all that apply - Selected Choice - Supported - Physician available if needed,What best describes APP role? Select all that apply - Selected Choice - Supervised - Physician reviews all cases,What best describes APP role? Select all that apply - Selected Choice - Other,What best describes APP role? Select all that apply - Other - Text,Institution/Healthcare System
+"{""ImportId"":""1_QID4#1_1""}","{""ImportId"":""1_QID4#3_1_1""}","{""ImportId"":""QID14"",""choiceId"":""1""}","{""ImportId"":""QID14"",""choiceId"":""2""}","{""ImportId"":""QID14_1_TEXT""}","{""ImportId"":""QID14_2_TEXT""}","{""ImportId"":""QID15_TEXT""}","{""ImportId"":""QID16_TEXT""}","{""ImportId"":""QID41"",""choiceId"":""1""}","{""ImportId"":""QID41"",""choiceId"":""2""}","{""ImportId"":""QID41"",""choiceId"":""3""}","{""ImportId"":""QID41"",""choiceId"":""4""}","{""ImportId"":""QID41_4_TEXT""}","{""ImportId"":""QID5_TEXT""}"
+"",,,,,,,,,,,,,
+Academic,BMC,,,,,,,,,,,,
+"",,,,,,,,,,,,,
+Academic,Boston Medical Center,"Days per week # ",Weekends per year #,5,0,6,,,Supported - Physician available if needed,,,,Boston Medical Center
+Academic,Grady,,,,,,,,,,,,Grady Health System/Emory
+Academic,Norfolk and Norwich University Hospitals NHS Foundation Trust,"Days per week # ",Weekends per year #,6,52,I do not understand this,I do not understand this,,Supported - Physician available if needed,,,,Norfolk and Norwich University Hospitals NHS Foundation Trust (UK)
+VA,VA Puget Sound,,,,,,,,,,,,VA Puget Sound
+Academic,Nebraska Medicine,"Days per week # ",Weekends per year #,5,0,10,15,,Supported - Physician available if needed,,,,University of Nebraska Medical Center
+Academic,Brigham and Women's Hospital,"Days per week # ",Weekends per year #,4,8-9,20-24,20 (weekdays) 24 on weekend,,Supported - Physician available if needed,,,,Brigham and Women's Hospital
+Academic,UK healthcare,"Days per week # ",Weekends per year #,4,12,13,,Completely Independent - No physician involvement,Supported - Physician available if needed,,,,UK healthcare
+"",,,,,,,,,,,,,
+Academic,OSU,"Days per week # ",Weekends per year #,4,12,12,15,,Supported - Physician available if needed,,,,Ohio State University
+Community - teaching,Parkview Regional Medical Center,,,,,,,,,,,,Parkview Health
+Academic,Stanford Hospital,,,,,,,,,,,,Stanford Hospital
+Academic,Shands,"Days per week # ",Weekends per year #,5,0,12,15,Completely Independent - No physician involvement,Supported - Physician available if needed,Supervised - Physician reviews all cases,,,University of Florida
+Academic,UAB Hospital,"Days per week # ",Weekends per year #,5,8,12,,,Supported - Physician available if needed,,,,University of Alabama at Birmingham
+Academic,baptist,"Days per week # ",Weekends per year #,5,10,8,,,Supported - Physician available if needed,,,,wake forest /atrium health
+Academic,Cleveland Clinic main campus,"Days per week # ",Weekends per year #,7,?,15,we try to sign off on patients that are comparatively stable to accommodate new,,Supported - Physician available if needed,,,,"Cleveland Clinic - I am responding only for my main campus, we have at least 10 hospitals"
+Community - teaching,Wynn,,,,,,,,,,,,Mohawk Valley Health System
+Community - teaching,St Vincent's Medical Center,"Days per week # ",Weekends per year #,5,0,6,,Completely Independent - No physician involvement,Supported - Physician available if needed,,,,St. Vincent's Medical Center/Hartford Healthcare
+Academic,UMassMemorial,,,,,,,,,,,,UMass Memorial Health Worcester
+Academic,Sentara Norfolk General Hospital,"Days per week # ",Weekends per year #,5,0,15,,,,Supervised - Physician reviews all cases,,,Eastern Virginia Medical School/ Sentara Hospital system
+Academic,MaineHealth,"Days per week # ",Weekends per year #,4,0,10,,,Supported - Physician available if needed,,,,Maine Medical Center Portland Campus
+Other,Atrium Medical Center,"Days per week # ",Weekends per year #,5,0,3,,,Supported - Physician available if needed,,,,"Atrium Medical Center/Premier Heath "
+Academic,Houston Methodist,,,,,,,,,,,,Houston Methodist
+Academic,"Nebraska Medicine ","Days per week # ",Weekends per year #,5,0,5,,,,Supervised - Physician reviews all cases,,,"University of Nebraska Medical Center "
+Academic,Hillcrest,"Days per week # ",Weekends per year #,5,12,12,,,Supported - Physician available if needed,,,,University of California San Diego Health
+Academic,UVA Medical Center,"Days per week # ",Weekends per year #,4,12,12,,,Supported - Physician available if needed,,,,University of Virginia Health System
+Academic,UCHealth Anschutz,,,,,,,,,,,,University of Colorado Health
+Academic,Johns Hopkins Hospital,"Days per week # ",Weekends per year #,5,0,12,,,Supported - Physician available if needed,,,,Johns Hopkins Health System
+Academic,Michigan Medicine,,,,,,,,,,,,"University of Michigan "
+Academic,University of Cincinnati Medical Center,,,,,,,,,,,,UC Health / University of Cincinnati
+Academic,,"Days per week # ",Weekends per year #,5,0,10,10,,Supported - Physician available if needed,,,,"University of Chicago Medicine "
+Community - teaching,Saint Joseph Medical Center,,,,,,,,,,,,Common spirit health
+Academic,Duke University Hospital,"Days per week # ",Weekends per year #,5,8,16,,,Supported - Physician available if needed,,,,Duke
+Academic,Methodist,"Days per week # ",Weekends per year #,5,0,1-2,just started,,,Supervised - Physician reviews all cases,,,Indiana University
+Academic,HUP,"Days per week # ",Weekends per year #,5,5,12,,,Supported - Physician available if needed,,,,"University of Pennsylvania "
+Academic,NYP/Weill Cornell,"Days per week # ",Weekends per year #,4,0,2,2,Completely Independent - No physician involvement,,,,,NewYork-Presbyterian
