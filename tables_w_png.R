@@ -75,3 +75,4 @@ table1 %>%
 table2 %>% 
   as_gt() %>% 
   gt::gtsave("Table_TeamType.png")
+# Testing
