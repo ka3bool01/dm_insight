@@ -13,11 +13,11 @@ df <- read_excel("hospital_data_clean.xlsx") %>%
 
 # 2. Define our custom labels
 my_labels <- list(
-  attending_count ~ "No. of Attendings",
-  trainee_count ~ "No. of Trainees",
-  np_pa_count ~ "No. of NPs/PAs",
-  pharmd_count ~ "No. of PharmDs",
-  cde_count ~ "No. of CDEs",
+  attending_count ~ "Attendings",
+  trainee_count ~ "Trainees",
+  np_pa_count ~ "NPs/PAs",
+  pharmd_count ~ "PharmDs",
+  cde_count ~ "CDCESs",
   avg_census ~ "Avg. Daily Census",
   avg_new_consults ~ "Avg. New Consults"
 )
